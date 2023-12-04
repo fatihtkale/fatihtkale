@@ -1,5 +1,5 @@
 # About me! 
-- 👤 Current position: Full stack trainee @ Exerp & Software Developer student at TEC.
+- 👤 Current position: Freelancing
 - 💕 Loves: Gaming, Software Development, Music
 - 📫 How to reach me: fatihtkale@gmail.com
 - ⚡ Fun fact: Learned english from youtube.
