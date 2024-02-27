@@ -5,4 +5,4 @@
 - ⚡ Fun fact: Learned english from youtube.
 
 # My skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,laravel,nuxt,react,adonis,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,laravel,nuxt,tailwind,react,adonis,postgres,mysql,unity,c#)](https://skillicons.dev)
