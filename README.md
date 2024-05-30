@@ -4,5 +4,5 @@
 - 📫 How to reach me: fatihtkale@gmail.com
 - ⚡ Fun fact: Learned english from youtube.
 
-# My skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,laravel,nuxt,tailwind,react,adonis,postgres,mysql,unity,flutter,cloudflare)](https://skillicons.dev)
+# My skills/Daily uses
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,laravel,nuxt,tailwind,adonis,postgres,mysql,cloudflare)](https://skillicons.dev)
