@@ -5,4 +5,4 @@
 - ⚡ Fun fact: Learned english from youtube.
 
 # My skills/Daily uses
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,laravel,nuxt,tailwind,postgres,mariadb,python,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,laravel,nuxt,tailwind,postgres,mysql,python,django)](https://skillicons.dev)
