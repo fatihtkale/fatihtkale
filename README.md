@@ -1,5 +1,5 @@
 # About me! 
-- 👤 Current position: Freelancing
+- 👤 Current position: [CTO @ Mediabranding](mediabranding.dk)]
 - 💕 Loves: Gaming, Software Development, Music
 - 📫 How to reach me: fatihtkale@gmail.com
 - ⚡ Fun fact: Learned english from youtube.
